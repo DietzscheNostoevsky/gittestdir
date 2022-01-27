@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
 def main():
-	pass
+	"""to check the merging conflicts with git"""
 
 main()
